@@ -30,6 +30,8 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        binding  = ActivityMainBinding.inflate(layoutInflater)
+        setContentView(binding.root)
         if(checkPermissions()){
             repositorey = MainRepositorey(this)
             factorey = MainViewModelFactorey(repositorey)
@@ -43,8 +45,6 @@ class MainActivity : AppCompatActivity() {
 
     }
     private fun init(){
-        binding  = ActivityMainBinding.inflate(layoutInflater)
-        setContentView(binding.root)
         getlastlocation()
     }
 
@@ -111,5 +111,6 @@ class MainActivity : AppCompatActivity() {
                 Manifest.permission.ACCESS_FINE_LOCATION
             ), PERMISSION_ID
         )
+        init()
     }
 }
