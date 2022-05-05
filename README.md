@@ -1,1 +1,20 @@
-# WeatherSdk
+ # Weather App
+This is a weather app, in which the weather according to the location is shown.
+1. A separate weather sdk has been used in this.
+2. Got the location in this
+3. The weather is shown according to the location
+4. this app is very useful for user, they can seen own weather as per own location.
+
+## Templated Files
+This list contains all templated files that will be overwitten by certain any tasks.
+None of this files should be committed to the repository.
+
+1. AndroidManifest.xml.template
+2. Conf.java.template
+3. strings.xml.template
+
+## weather SDK
+The weather sdk has been added to it separately. In this api is implemented, it sends the data of weather according to latitude, longitude and api_key.
+
+
+
