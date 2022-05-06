@@ -24,17 +24,17 @@ there are some steps which are define below.
 4. include ':SDK'
 5. also check in settings.gradle file, is sdk is add or not if add then its perfect.
 
-## PROGRAMMING LANGUAGES
+### PROGRAMMING LANGUAGES
 1. Kotlin
 2. Android
-## TECHNOLOGIES USED
+### TECHNOLOGIES USED
 1. MVVM
 2. Retrofit
 3. Coroutine
-## REPOSITORY / CODE MAINTENANCE
+### REPOSITORY / CODE MAINTENANCE
 Github.
 
-## ENGINEERING TOOLS
+### ENGINEERING TOOLS
 Android Studio
 
 
