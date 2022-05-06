@@ -25,7 +25,8 @@ there are some steps which are define below.
 5. also check in settings.gradle file, is sdk is add or not if add then its perfect.
 
 ## PROGRAMMING LANGUAGES
-Kotlin Android
+Kotlin 
+Android
 ## TECHNOLOGIES USED
 MVVM
 Retrofit
