@@ -10,7 +10,7 @@ This list contains all templated files that will be overwitten by certain any ta
 None of this files should be committed to the repository.
 
 1. AndroidManifest.xml.template
-2. Conf.java.template
+2. Conf.xml.template
 3. strings.xml.template
 
 ## weather SDK
