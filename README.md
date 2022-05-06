@@ -25,12 +25,12 @@ there are some steps which are define below.
 5. also check in settings.gradle file, is sdk is add or not if add then its perfect.
 
 ## PROGRAMMING LANGUAGES
-Kotlin 
-Android
+1. Kotlin
+2. Android
 ## TECHNOLOGIES USED
-MVVM
-Retrofit
-Coroutine
+1. MVVM
+2. Retrofit
+3. Coroutine
 ## REPOSITORY / CODE MAINTENANCE
 Github.
 
