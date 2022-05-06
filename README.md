@@ -22,7 +22,19 @@ there are some steps which are define below.
 2. Import Module from source is open
 3. sourece directory - > browse the sdk -> Click Ok
 4. include ':SDK'
-5. also check in settings.gradle file, is sdk is add or not if add then its perfect. 
+5. also check in settings.gradle file, is sdk is add or not if add then its perfect.
+
+## PROGRAMMING LANGUAGES
+Kotlin Android
+## TECHNOLOGIES USED
+MVVM
+Retrofit
+Coroutine
+## REPOSITORY / CODE MAINTENANCE
+Github.
+
+## ENGINEERING TOOLS
+Android Studio
 
 
 
