@@ -16,5 +16,13 @@ None of this files should be committed to the repository.
 ## weather SDK
 The weather sdk has been added to it separately. In this api is implemented, it sends the data of weather according to latitude, longitude and api_key.
 
+### How to implemented weather sdk
+there are some staps which are difune below.
+1. Click On File -> New -> import module
+2. Import Module from source is open
+3. sourece directory - > browse the sdk -> Click Ok
+4. include ':SDK'
+5. also check in settings.gradle file, is sdk is add or not if add then its perfect. 
+
 
 
