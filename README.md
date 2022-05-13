@@ -5,7 +5,7 @@ This is a weather app, in which the weather according to the location is shown.
 3. The weather is shown according to the location
 4. this app is very useful for user, they can seen own weather as per own location.
 5. this app have showing Current Date Wind Speed and Tempreture with CELSIUS and also in FAHRENHEIT
-6. user can check current date temprature and also next seven days.
+6. user can check current date temprature and also next seven days temprature with Wind Speed.
 
 ## Templated Files
 This list contains all templated files that will be overwitten by certain any tasks.
